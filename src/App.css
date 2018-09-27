@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.App{
+    font-family: 'Raleway', sans-serif;
+
+}
+.cookie-full{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.App-title, .App-intro{
+    text-align: center;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 30%;
+    display: block;
+    margin: 15px auto;
+    
+}
+
+.quote, .author {
+    width: 50%;
+    margin: 15px auto;
+}
+
+.author {
+    font-size: 10px;
+}
